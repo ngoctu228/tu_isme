@@ -169,8 +169,8 @@ body:before {
     }
     100% {
         box-shadow: 0 0 10px 1px #00eeff;
-        width: 425px;
-        height: 700px;
+        width: 374px;
+        height: 616px;
         background: #0d0f18;
         -webkit-border-radius: 25px;
     }
@@ -200,12 +200,12 @@ img {
 }
 
 .profile-card .profile-header {
-    height: 25px;
+    height: 10px;
 }
 
 .profile-card .profile-body {
     background-color: var(--white);
-    padding: 20px 40px 40px 40px;
+    padding: 10px 20px 20px 20px;
 }
 
 .profile-card .profile-body .author-img {
